@@ -5,7 +5,7 @@ JANEETHREDDY ALLE
 
 
 >[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:janeethreddyalle2@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://github.com/JaneethReddy)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/JaneethReddy_A)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/janeethreddyalle/)
 [![Gmail](https://img.shields.io/badge/-Instagram-cd486b?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/janeethreddy_a/)
 

@@ -67,6 +67,8 @@ I have also used <strong>Terraform templates</strong> to automate the launch of 
  
  
 - Created Instance Scheduler infrastructure to centralize the process to stop/start EC2 instances & RDS DB’s based on Business hours which are running in multiple accounts. This helped the client company to reduce AWS Bill on these services by over 30%. 
+- Provided a Zero Down Time Postgres RDS Upgrade solution by using pg_replication feature provided by Postgres which helped the company to not have 1 Hr -3 Hr down time usually
+- Created a complete workflow using State Machine to perform varioud Data Analysis on Data from S3 Buckets.
 - Used Terraform template to give SSM Access to all the instances available in organisation by creating & attaching required roles & VPC Endpoints. And also changed the IAM policies to permit users access to EC2 based on EC2 Instance Tags  
 - Automated the creation of  RDS DB tables by using data from S3 Buckets with the help of AWS Glue Job.
 - Migrated Datagrok Application which is in ECS cluster and it’s Databases by recreating whole cluster with Terraform templates. 
